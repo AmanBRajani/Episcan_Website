@@ -44,19 +44,19 @@ Whether you're showcasing AI skills or frontend finesse, this project proves tha
 | **Image Input** | Webcam / File Upload (`react-webcam`)                           |
 | **Deployment**  | Vercel / GitHub Pages (Frontend), Localhost for model inference |
 
-# Python backend (pseudo-code)
-# Exposes POST /predict that accepts an image and returns output
+## Python backend (pseudo-code)
+Exposes POST /predict that accepts an image and returns output
 
 📸 Screenshots
 | Upload Page       | Result Page       | Product Page      |
 | ----------------- | ----------------- | ----------------- |
 | ![](your_ss1.png) | ![](your_ss2.png) | ![](your_ss3.png) |
 
-👨‍💻 Made With ❤️ by Aman Rajani
+## 👨‍💻 Made With ❤️ by Aman Rajani
 Portfolio: aman-rajani.vercel.app
 LinkedIn: Aman Rajani (linkedin.com/in/aman-rajani)
 
-📄 License
+## 📄 License
 This project is for educational and portfolio use only. All AI models are trained by the author and are not for commercial redistribution.
 ---
 
