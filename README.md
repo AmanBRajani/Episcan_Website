@@ -23,7 +23,7 @@ Whether you're showcasing AI skills or frontend finesse, this project proves tha
 - 🎨 Stunning responsive UI built with **React + TailwindCSS + Framer Motion**
 - 🔥 Zero database – no data is stored, everything is live and lightweight
 
----
+
 
 ## 🖼️ Website Flow
 
@@ -44,26 +44,37 @@ Whether you're showcasing AI skills or frontend finesse, this project proves tha
 | **Image Input** | Webcam / File Upload (`react-webcam`)                           |
 | **Deployment**  | Vercel / GitHub Pages (Frontend), Localhost for model inference |
 
+---
+
 ## Python backend (pseudo-code)
 Exposes POST /predict that accepts an image and returns output
+
+---
 
 📸 Screenshots
 | Upload Page       | Result Page       | Product Page      |
 | ----------------- | ----------------- | ----------------- |
 | ![](your_ss1.png) | ![](your_ss2.png) | ![](your_ss3.png) |
 
+---
+
 ## 👨‍💻 Made With ❤️ by Aman Rajani
 Portfolio: aman-rajani.vercel.app
 LinkedIn: Aman Rajani (linkedin.com/in/aman-rajani)
 
+---
+
 ## 📄 License
 This project is for educational and portfolio use only. All AI models are trained by the author and are not for commercial redistribution.
+
 ---
 
 Let me know if you want:
 - Live demo badge section
 - Python API starter code for model inference
 - GitHub Actions for deployment to Vercel or GitHub Pages
+
+---
 
 ## 📂 Project Structure
 
@@ -82,3 +93,4 @@ episcan/
 ├── README.md
 └── package.json
 
+---
