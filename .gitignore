@@ -1,84 +1,36 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Node
-node_modules/
-.next/
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-# Logs
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log*
 
-# OS
-.DS_Store
-Thumbs.db
-
-# Env
-.env*
-.env.*
-
-# Editor
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Build output
-dist/
-out/
-
-# Test coverage
-coverage/
-
-# Misc
-*.local
-*.log
-*.tgz
-
-# TypeScript
-*.tsbuildinfo
-
-# Mac
-Icon?
-
-# SASS
-.sass-cache/
-
-# Next.js
-.next/
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
+# local env files
+.env*.local
+.env
 
 # vercel
-.vercel/
+.vercel
 
-# Storybook
-.storybook/
-
-# JetBrains
-*.iml
-*.ipr
-*.iws
-.idea/
-
-# VSCode
-.history/
-
-# Windows
-*.lnk
-
-# Others
-*.bak
-*.tmp
-*.orig
-
-# Local env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# typescript
+*.tsbuildinfo
+next-env.d.ts
