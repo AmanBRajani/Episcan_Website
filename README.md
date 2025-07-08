@@ -51,7 +51,7 @@ Exposes POST /predict that accepts an image and returns output
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 | Upload Page       | Result Page       | Product Page      |
 | ----------------- | ----------------- | ----------------- |
 | ![](your_ss1.png) | ![](your_ss2.png) | ![](your_ss3.png) |
